@@ -1,32 +1,53 @@
-# AI Powered Resume Builder (MERN Stack)
+# 🚀 AI Powered Resume Builder (MERN Stack)
 
-A Full Stack AI Powered Resume Builder web application built using React.js, Node.js, Express.js, MongoDB, and ImageKit. This application allows users to create, manage, optimize, and share professional resumes with AI-powered content enhancement and live preview.
+An advanced full-stack AI Powered Resume Builder web application that enables users to create, manage, optimize, and share professional resumes using AI.
+
+Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) with AI integration for intelligent resume enhancement and ImageKit for profile image processing.
+ 
 
 ---
 
-## Features
+## ✨ Features
 
-- User Authentication (Sign Up / Sign In with JWT)
-- Create, edit, and delete resumes
-- Live resume preview in real time
-- Share resume using public live link
-- Upload existing resume and optimize using AI
-- AI-powered professional summary and job description generation
-- Upload profile image with background removal using ImageKit
+### 🔐 Authentication
+- Secure User Signup and Login
+- JWT-based authentication
+- Protected routes and authorization
+
+### 📄 Resume Management
+- Create new resumes
+- Edit existing resumes
+- Delete resumes
+- Real-time live preview
+- Public shareable resume link
+
+### 🤖 AI Integration
+- AI-powered professional summary generation
+- AI-powered job description enhancement
+- Resume content optimization
+- Upload existing resume and enhance using AI
+
+### 🖼 Image Handling
+- Upload profile image
+- Automatic background removal
+- ImageKit integration for fast delivery
+
+### 🎨 Templates & Export
 - Multiple modern resume templates
+- Professional layouts
 - Download resume as PDF
-- Secure backend with protected routes
 - Fully responsive design
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 - React.js
 - Redux Toolkit
 - Tailwind CSS
 - Axios
+- React Router DOM
 
 ### Backend
 - Node.js
@@ -35,29 +56,50 @@ A Full Stack AI Powered Resume Builder web application built using React.js, Nod
 - Mongoose
 - JWT Authentication
 
-### AI & Media Integration
-- Grok AI 
+### AI Integration
+- Grok AI API
+
+### Media Integration
 - ImageKit (Image upload and background removal)
 
----
-
-## Project Structure
-## Screenshots
-
-### Home Page
-![Home Page](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/home%20page.png?raw=true)
-
-### Dashboard
-![Dashboard](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/dashboard.png?raw=true)
-
-### Create or Upload Resume
-![Create or Upload](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/create%20or%20upload.png?raw=true)
-
-### Template Selection
-![Template Selector](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/templateSelector.png?raw=true)
-
-### Signup Form
-![Signup Form](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/signupform.png?raw=true)
+### Other Tools
+- Multer
+- dotenv
+- cors
 
 ---
+
+## 📸 Project Screenshots
+
+| Home Page | Dashboard |
+|----------|-----------|
+| ![Home](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/home%20page.png?raw=true) | ![Dashboard](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/dashboard.png?raw=true) |
+
+| Create or Upload Resume | Template Selection |
+|------------------------|-------------------|
+| ![Create Upload](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/create%20or%20upload.png?raw=true) | ![Template](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/templateSelector.png?raw=true) |
+
+| Signup Form |
+|------------|
+| ![Signup](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/signupform.png?raw=true) |
+
+---
+
+## 🏗 Project Architecture
+
+Client (React.js)
+│
+├── Authentication
+├── Resume Editor
+├── Resume Preview
+├── Template Selection
+└── API Integration
+│
+Server (Node.js + Express)
+│
+├── Authentication Routes
+├── Resume Routes
+├── AI Routes
+├── Image Upload Routes
+└── MongoDB Database
 
