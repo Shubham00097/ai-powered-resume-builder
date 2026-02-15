@@ -36,7 +36,7 @@ A Full Stack AI Powered Resume Builder web application built using React.js, Nod
 - JWT Authentication
 
 ### AI & Media Integration
--Grok AI
+- Grok AI 
 - ImageKit (Image upload and background removal)
 
 ---
