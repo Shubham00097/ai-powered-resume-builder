@@ -42,4 +42,22 @@ A Full Stack AI Powered Resume Builder web application built using React.js, Nod
 ---
 
 ## Project Structure
+## Screenshots
+
+### Home Page
+![Home Page](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/home%20page.png?raw=true)
+
+### Dashboard
+![Dashboard](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/dashboard.png?raw=true)
+
+### Create or Upload Resume
+![Create or Upload](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/create%20or%20upload.png?raw=true)
+
+### Template Selection
+![Template Selector](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/templateSelector.png?raw=true)
+
+### Signup Form
+![Signup Form](https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/signupform.png?raw=true)
+
+---
 
