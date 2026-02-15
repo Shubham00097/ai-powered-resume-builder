@@ -102,16 +102,24 @@ A comprehensive full-stack web application that revolutionizes resume creation t
 </td>
 <td width="50%">
 
+### AI Content Enhancement
+<img src="https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/ai%20feature.png?raw=true" alt="AI Feature" />
+
+*AI-powered suggestions and content optimization in action*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### Template Selection
 <img src="https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/templateSelector.png?raw=true" alt="Template" />
 
 *Browse professional templates for every industry*
 
 </td>
-</tr>
-
-<tr>
-<td colspan="2">
+<td width="50%">
 
 ### Signup Form
 <img src="https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/signupform.png?raw=true" alt="Signup" />
@@ -167,4 +175,80 @@ A comprehensive full-stack web application that revolutionizes resume creation t
 - **Enterprise-Grade Security**: Industry-standard encryption and authentication
 - **Performance Optimized**: Lazy loading, code splitting, and CDN delivery
 - **Accessibility Compliant**: WCAG 2.1 Level AA standards
+
+---
+
+## 🎯 Use Cases
+
+- **Job Seekers**: Create professional resumes tailored to specific job applications
+- **Career Changers**: Transform existing resumes with AI-powered content optimization
+- **Recent Graduates**: Build compelling resumes with AI-generated professional summaries
+- **Recruiters**: Share templates and guidelines with candidates
+- **Career Coaches**: Help clients create standout resumes efficiently
+
+---
+
+## 📦 Installation & Setup
+
+### Prerequisites
+- Node.js (v14 or higher)
+- MongoDB (v4.4 or higher)
+- npm or yarn package manager
+
+### Environment Variables
+Create a `.env` file in the root directory:
+```env
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+GROK_API_KEY=your_grok_api_key
+IMAGEKIT_PUBLIC_KEY=your_imagekit_public_key
+IMAGEKIT_PRIVATE_KEY=your_imagekit_private_key
+IMAGEKIT_URL_ENDPOINT=your_imagekit_url_endpoint
+```
+
+### Installation Steps
+```bash
+# Clone the repository
+git clone https://github.com/Shubham00097/ai-powered-resume-builder.git
+
+# Install backend dependencies
+cd ai-powered-resume-builder
+npm install
+
+# Install frontend dependencies
+cd client
+npm install
+
+# Run the application
+npm run dev
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Shubham**
+
+- GitHub: [@Shubham00097](https://github.com/Shubham00097)
+
+---
+
+## 🌟 Acknowledgments
+
+- Grok AI for intelligent content generation
+- ImageKit for seamless image processing
+- The MERN stack community for excellent documentation and support
 
