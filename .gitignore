@@ -1,0 +1,24 @@
+# ignore env files everywhere
+.env
+.env.*
+
+# dependencies
+node_modules/
+
+# build folders
+dist/
+build/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# optional (React)
+client/node_modules/
+client/dist/
+
+# optional (Node server)
+server/node_modules/
