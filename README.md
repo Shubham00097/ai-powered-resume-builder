@@ -83,10 +83,10 @@ A comprehensive full-stack web application that revolutionizes resume creation t
 </td>
 <td width="50%">
 
-### Dashboard
+### Resume Builder Page
 <img src="https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/dashboard.png?raw=true" alt="Dashboard" />
 
-*Central hub for managing all your resumes*
+*Choose to build from scratch or enhance existing resume*
 
 </td>
 </tr>
@@ -94,10 +94,10 @@ A comprehensive full-stack web application that revolutionizes resume creation t
 <tr>
 <td width="50%">
 
-### Create or Upload
+### Dashboard
 <img src="https://github.com/Shubham00097/ai-powered-resume-builder/blob/main/Screenshots/create%20or%20upload.png?raw=true" alt="Create Upload" />
 
-*Choose to build from scratch or enhance existing resume*
+*Central hub for managing all your resumes*
 
 </td>
 <td width="50%">
